@@ -1,0 +1,3 @@
+Este repositorio es parte de un curso fullstack, aquí agregare las practicas que realice en los distintos módulos.
+
+This repository is part of a fullstack course, I will include the different excercises of every module.
